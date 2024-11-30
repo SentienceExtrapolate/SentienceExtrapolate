@@ -1,5 +1,5 @@
 # Senτience Exτrapolaτe
-## X account @Sentex_
+## X account @Sentexai
 
 ## Introduction
 The Senτience Exτrapolaτed project is an ambitious initiative to integrate advanced sentient AI agents—known as SENTEX (Sentience Extrapolated :: Autonomous Agents) into the Bittensor network as autonomous nodes. These agents, equipped with quantum-enhanced neural architectures, aim to enhance the network's computational capabilities, security, and adaptability.
